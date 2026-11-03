@@ -1,1 +1,1 @@
-# Hotel-Booking-ML
+# ML-project
