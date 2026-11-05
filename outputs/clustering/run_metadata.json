@@ -1,0 +1,30 @@
+{
+  "rows": 79330,
+  "features": [
+    "LeadTime",
+    "StaysInWeekendNights",
+    "StaysInWeekNights",
+    "Adults",
+    "Children",
+    "Babies",
+    "PreviousCancellations",
+    "PreviousBookingsNotCanceled",
+    "IsRepeatedGuest",
+    "MarketSegment",
+    "DepositType",
+    "CustomerType",
+    "DistributionChannel"
+  ],
+  "encoded_shape": [
+    79330,
+    29
+  ],
+  "agglomerative_sample": 3000,
+  "dbscan_sample": 10000,
+  "metric_sample": 5000,
+  "validity_rule": {
+    "min_cluster_frac": 0.02,
+    "max_noise_frac": 0.3,
+    "min_clusters": 3
+  }
+}

@@ -1,0 +1,4 @@
+,algorithm,version,params,n_samples,silhouette,davies_bouldin,n_clusters,noise_frac,min_cluster_frac,valid
+Agglomerative,Agglomerative,grid,"{""n_clusters"": 3, ""linkage"": ""ward""}",3000,0.4031098287333786,1.3274265371971132,3,0.0,0.024,True
+DBSCAN,DBSCAN,grid,"{""eps"": 4.0, ""min_samples"": 10}",10000,0.5873236503418909,0.7077775934680681,3,0.0025,0.00531328320802005,False
+KMeans,KMeans,grid,"{""n_clusters"": 4}",79330,0.2033544801491717,1.551867760654436,4,0.0,0.025828816336820874,True

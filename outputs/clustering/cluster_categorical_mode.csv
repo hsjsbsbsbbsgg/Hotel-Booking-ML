@@ -1,0 +1,5 @@
+cluster,MarketSegment,DepositType,CustomerType,DistributionChannel
+0,Groups,Non Refund,Transient,TA/TO
+1,Corporate,No Deposit,Transient,Corporate
+2,Online TA,No Deposit,Transient,TA/TO
+3,Online TA,No Deposit,Transient,TA/TO

@@ -1,0 +1,12 @@
+,value
+rows,79330
+columns,31
+total_missing_values,28
+duplicate_rows,25902
+agent_literal_null,8131
+company_literal_null,75641
+Adults == 0,390
+ADR > 500,2
+Babies > 2,2
+StaysInWeekNights > 10,140
+DaysInWaitingList > 100,630
